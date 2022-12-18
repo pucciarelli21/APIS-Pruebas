@@ -1,0 +1,13 @@
+{
+    "user": 1,
+    "articles": [
+        {
+            "id": 2,
+            "name": "Peugeot 208",
+            "count": 1,
+            "unitCost": 15200,
+            "currency": "USD",
+            "image": "img/prod50924_1.jpg"
+        }
+    ]
+}
